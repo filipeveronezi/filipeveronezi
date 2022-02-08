@@ -7,5 +7,5 @@
 
 <h2>👋🏼 Hi there. I'm <a href="https://filipeveronezi.dev.br">Filipe</a>.</h2>
 
-- 💻 Web Developer at [Pilgrim App](https://thepilgrim.com.br)
+- 💻 Web Developer @ [Pilgrim App](https://thepilgrim.com.br)
 - 💡 Currently learning **ReactJS** and **NextJS**
