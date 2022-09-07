@@ -5,7 +5,7 @@
   
 </div>
 
-<h2>👋🏼 Hi there. I'm <a href="https://filipeveronezi.dev.br">Filipe</a>.</h2>
+<h2>👋🏼 Hi there. I'm Filipe.</h2>
 
 - 💻 Front-end Developer @ [Pilgrim App](https://thepilgrim.com.br)
 - 💡 Currently learning **ReactJS** and **NextJS**
