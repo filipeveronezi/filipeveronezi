@@ -7,5 +7,5 @@
 
 <h2>👋🏼 Hi there. I'm Filipe.</h2>
 
-- 💻 Front-end Developer @ [Pilgrim App](https://thepilgrim.com.br)
-- 💡 Currently learning **ReactJS** and **NextJS**
+- 💻 Front-end Developer @ [Pilgrim App](https://thepilgrim.com.br);
+- 💡 Currently learning **ReactJS** and **NextJS**.
