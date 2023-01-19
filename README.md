@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-  front-end developer <a href="https://thepilgrim.com.br/">@pilgrim 🧡</a>
+  frontend developer <a href="https://thepilgrim.com.br/">@pilgrim 🧡</a>
 </div>
 
 <br />
