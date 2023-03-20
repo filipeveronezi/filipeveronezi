@@ -20,7 +20,7 @@
 <br />
 
 <div align="center">
-  experienced with <strong>⚡ nextjs</strong>, <strong>react</strong>
+  experienced with <strong>⚡ typescript</strong>, <strong>react</strong>, <strong>nextjs</strong>
 </div>
 
 <br />
