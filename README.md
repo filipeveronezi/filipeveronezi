@@ -8,13 +8,13 @@
 <br />
 
 <div align="center">
-  frontend developer <a href="https://thepilgrim.com.br/">@pilgrim 🧡</a>
+  front-end developer <a href="https://intranetmall.com.br/">@intranetmall</a>, <a href="https://thepilgrim.com.br/">@pilgrim</a>
 </div>
 
 <br />
 
 <div align="center">
-  learning <strong>🪐 react native</strong>
+  learning <strong>🪐 ui/ux</strong>
 </div>
 
 <br />
