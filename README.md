@@ -8,25 +8,26 @@
 <br />
 
 <div align="center">
-  front-end developer <a href="https://intranetmall.com.br/">@intranetmall</a>, <a href="https://thepilgrim.com.br/">@pilgrim</a>
+  front-end developer and designer
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  exploring <strong>🪐 ui/ux design</strong> <a href="https://pacy.co/">@pacy</a>
 </div>
 
 <br />
 
 <div align="center">
-  learning <strong>🪐 ui/ux</strong>
+  building with <strong>⚡ nextjs</strong>, <strong>react</strong>, <strong>typescript</strong> <a href="https://intranetmall.com.br/">@intranetmall</a> and <a href="https://thepilgrim.com.br/">@pilgrim</a>
 </div>
 
 <br />
 
 <div align="center">
-  experienced with <strong>⚡ nextjs</strong>, <strong>react</strong>, <strong>typescript</strong>
-</div>
-
-<br />
-
-<div align="center">
-  ✨ building delightful user experiences is my passion
+  ✨ creating delightful user experiences is my passion
 </div>
 
 <br />
