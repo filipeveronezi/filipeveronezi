@@ -1,27 +1,15 @@
 
 <div align="center">
   <a href="https://www.veronezi.dev">
-    <img src="https://user-images.githubusercontent.com/48724782/216492736-35357d66-4002-4f1f-9529-e91dce2b377b.png" alt="logo" width=75 />
+    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/b6e7094f-5375-497c-88fa-14e4721d2648" alt="logo" width=75 />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  front-end developer and designer
-</div>
+</div
 
 <br />
 <br />
 
 <div align="center">
-  exploring <strong>🪐 ui/ux design</strong> <a href="https://pacy.co/">@pacy</a>
-</div>
-
-<br />
-
-<div align="center">
-  building with <strong>⚡ nextjs</strong>, <strong>react</strong>, <strong>typescript</strong> <a href="https://intranetmall.com.br/">@intranetmall</a> and <a href="https://thepilgrim.com.br/">@pilgrim</a>
+  building with ⚡ nextjs, react, typescript
 </div>
 
 <br />
@@ -30,7 +18,6 @@
   ✨ creating delightful user experiences is my passion
 </div>
 
-<br />
 <br />
 <br />
 
