@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://www.veronezi.dev">
-    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/478314a4-4c52-4124-bd67-53c5acadb4b1" alt="logo" width=500 />
+    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/4033765a-1542-4840-88ef-9990ea0e7031" alt="logo" width=800 />
   </a>
 </div
 
