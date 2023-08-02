@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://www.veronezi.dev">
-    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/b6e7094f-5375-497c-88fa-14e4721d2648" alt="logo" width=75 />
+    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/478314a4-4c52-4124-bd67-53c5acadb4b1" alt="logo" width=500 />
   </a>
 </div
 
@@ -9,13 +9,13 @@
 <br />
 
 <div align="center">
-  building with ⚡ nextjs, react, typescript
+  building with nextjs, react & typescript.
 </div>
 
 <br />
 
 <div align="center">
-  ✨ creating delightful user experiences is my passion
+  creating delightful user experiences is my passion.
 </div>
 
 <br />
