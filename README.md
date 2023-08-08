@@ -1,11 +1,5 @@
+![image](https://github.com/filipeveronezi/filipeveronezi/assets/48724782/b07d43e1-f65d-44e1-9f41-de9e6b8f8df8)
 
-<div align="center">
-  <a href="https://www.veronezi.dev">
-    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/f17a7a80-dde8-4f58-9a10-79335fbda95d" alt="logo" width=850 />
-  </a>
-</div>
-
-<br />
 <br />
 
 <div align="center">
