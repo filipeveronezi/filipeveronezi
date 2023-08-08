@@ -1,9 +1,9 @@
 
 <div align="center">
   <a href="https://www.veronezi.dev">
-    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/c92b11b3-3790-40e7-9a37-c20af57f0945" alt="logo" width=850 />
+    <img src="https://github.com/filipeveronezi/filipeveronezi/assets/48724782/5f390944-6458-4a1e-87a8-fddb88de5855" alt="logo" width=850 />
   </a>
-</div
+</div>
 
 <br />
 <br />
